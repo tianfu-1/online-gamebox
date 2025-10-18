@@ -1,0 +1,42 @@
+[
+	{
+		"name":"English",
+		"id":"en"
+	},
+	{
+		"name":"Español",
+		"id":"es"
+	},
+	{
+		"name":"Português",
+		"id":"pt"
+	},
+	{
+		"name":"Français",
+		"id":"fr"
+	},
+	{
+		"name":"عربي",
+		"id":"ar"
+	},
+	{
+		"name":"bahasa Indo",
+		"id":"id"
+	},
+	{
+		"name":"Tiếng Việt",
+		"id":"vi"
+	},
+	{
+		"name":"แบบไทย",
+		"id":"th"
+	},
+	{
+		"name":"Język polski",
+		"id":"pl"
+	},
+	{
+		"name":"Deutsch",
+		"id":"de"
+	}
+]

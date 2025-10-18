@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover"
+    />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="manifest" href="manifest.json" />
+    <style></style>
+    <title>Teeth Runner</title>
+  </head>
+  <body>
+    <script>
+      window.famobi_gameID = "teeth-runner"; // the actual GAMEID is added to the final version by Famobi
+      window.famobi_gameJS = [
+        "playcanvas-stable.min.js",
+        "files/assets/218917745/1/APIMediator.js",
+        "__settings__.js",
+        "__modules__.js",
+        "__start__.js",
+        "__loading__.js",
+        function () {},
+      ];
+      (function (document, url, fgJS, firstJS) {
+        fgJS = document.createElement("script");
+        firstJS = document.getElementsByTagName("script")[0];
+        fgJS.src = url + "";
+        firstJS.parentNode.insertBefore(fgJS, firstJS);
+      })(document, '/html5games/gameapi/v1.js?e=');
+    </script>
+  </body>
+</html>

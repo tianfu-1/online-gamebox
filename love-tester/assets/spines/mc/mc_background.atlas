@@ -1,0 +1,145 @@
+
+mc_background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: true
+  xy: 540, 700
+  size: 769, 1024
+  orig: 769, 1024
+  offset: 0, 0
+  index: -1
+da1
+  rotate: false
+  xy: 1926, 1130
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+da2
+  rotate: true
+  xy: 1961, 1338
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+da3
+  rotate: false
+  xy: 1959, 1258
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+day3
+  rotate: false
+  xy: 1907, 961
+  size: 17, 220
+  orig: 17, 220
+  offset: 0, 0
+  index: -1
+fx_roi
+  rotate: false
+  xy: 1710, 1480
+  size: 247, 530
+  orig: 247, 530
+  offset: 0, 0
+  index: -1
+gb_roi
+  rotate: true
+  xy: 2, 142
+  size: 541, 689
+  orig: 541, 689
+  offset: 0, 0
+  index: -1
+ho
+  rotate: false
+  xy: 693, 359
+  size: 541, 339
+  orig: 541, 339
+  offset: 0, 0
+  index: -1
+ho3
+  rotate: true
+  xy: 1566, 928
+  size: 541, 339
+  orig: 541, 339
+  offset: 0, 0
+  index: -1
+m1
+  rotate: true
+  xy: 1907, 1183
+  size: 122, 50
+  orig: 123, 50
+  offset: 1, 0
+  index: -1
+m2
+  rotate: false
+  xy: 1566, 707
+  size: 257, 82
+  orig: 257, 82
+  offset: 0, 0
+  index: -1
+m3
+  rotate: false
+  xy: 1566, 791
+  size: 426, 135
+  orig: 427, 135
+  offset: 1, 0
+  index: -1
+moneo
+  rotate: true
+  xy: 1907, 1307
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 1236, 680
+  size: 18, 571
+  orig: 18, 571
+  offset: 0, 0
+  index: -1
+speed-2
+  rotate: false
+  xy: 1907, 1375
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+test-bg
+  rotate: false
+  xy: 1236, 422
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vuc1
+  rotate: true
+  xy: 540, 1471
+  size: 539, 1168
+  orig: 539, 1168
+  offset: 0, 0
+  index: -1
+vuc2
+  rotate: false
+  xy: 2, 685
+  size: 536, 1325
+  orig: 536, 1325
+  offset: 0, 0
+  index: -1
+
+mc_background2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 2
+  size: 769, 1024
+  orig: 769, 1024
+  offset: 0, 0
+  index: -1

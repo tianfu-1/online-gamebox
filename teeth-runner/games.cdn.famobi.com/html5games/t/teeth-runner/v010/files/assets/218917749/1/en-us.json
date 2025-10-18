@@ -1,0 +1,62 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "en-US"
+            },
+            "messages": {
+                "TAP TO START": "TAP TO START",
+                "SETTINGS": "SETTINGS",
+                "Quality": "Quality",
+                "Low": "Low",
+                "Med": "Med",
+                "High": "High",
+                "Sound:": "Sound:",
+                "Music:":"Music",
+                "BIG REWARD": "BIG REWARD", 
+                "MISSION TO UNLOCK": "MISSION TO UNLOCK", 
+                "CLAIM": "CLAIM",
+                "DAILY MISSIONS": "DAILY MISSIONS", 
+                "COLLECT": "COLLECT",
+                "CLEAR 5": "CLEAR 5",
+                "LEVELS": "LEVELS",
+                "FREE CLAIM": "FREE CLAIM", 
+                "COMPLETED": "COMPLETED",
+                "LEVEL #": "LEVEL #", 
+                "SPEED X0": "SPEED X#", 
+                "MAX": "MAX",
+                "FEVER": "FEVER",
+                "SCRATCH TEETH": "SCRATCH TEETH", 
+                "BONUS X1.0": "BONUS X1.0", 
+                "TAP-TAP!": "TAP-TAP!",
+                "CANNON POWER X10": "CANNON POWER X#", 
+                "CUSTOMIZE": "CUSTOMIZE",
+                "FREE": "FREE",
+                "BUY ITEM": "BUY ITEM", 
+                "NEW ITEM": "NEW ITEM", 
+                "CLEAR": "CLEAR",
+                "Progress": "Progress",
+                "BONUS UNLOCK": "BONUS UNLOCK", 
+                "Continue": "Continue",
+                "CHOOSE YOUR REWARD": "CHOOSE YOUR REWARD", 
+                "GET": "GET",
+                "GEMS": "GEMS",
+                "NO THANKS": "NO THANKS", 
+                "Building Level...": "Building Level...", 
+                "Loading...": "Loading...",
+                "Resume": "Resume",
+                "No Ad available, try again.": "No Ad available, try again.",
+                "Not enough gems!": "Not enough gems!",
+                "CLEAN # HEADS": "CLEAN # HEADS",
+                "REACH # FEVER": "REACH # FEVER",
+                "COMPLETE # LEVELS": "COMPLETE # LEVELS",
+                "COLLECT # ": "COLLECT # ",
+                
+                "language_name": "English"
+            }
+        }
+    ]
+}

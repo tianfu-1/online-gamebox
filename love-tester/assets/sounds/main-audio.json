@@ -1,0 +1,64 @@
+{
+  "resources": [
+    "main-audio.mp3",
+    "main-audio.m4a",
+    "main-audio.ogg"
+  ],
+  "spritemap": {
+    "categorybutton": {
+      "start": 0,
+      "end": 0.156734693877551,
+      "loop": false
+    },
+    "colorbutton": {
+      "start": 1.1,
+      "end": 1.2567346938775512,
+      "loop": false
+    },
+    "menumusic": {
+      "start": 2.2,
+      "end": 58.2065306122449,
+      "loop": false
+    },
+    "namebutton": {
+      "start": 59.300000000000004,
+      "end": 59.40448979591837,
+      "loop": false
+    },
+    "nameclick": {
+      "start": 60.400000000000006,
+      "end": 60.66122448979593,
+      "loop": false
+    },
+    "okaybutton": {
+      "start": 61.50000000000001,
+      "end": 62.179183673469396,
+      "loop": false
+    },
+    "pop": {
+      "start": 62.60000000000001,
+      "end": 63.017959183673476,
+      "loop": false
+    },
+    "randombutton": {
+      "start": 63.7,
+      "end": 63.961224489795924,
+      "loop": false
+    },
+    "stun-1": {
+      "start": 64.80000000000001,
+      "end": 69.00571428571429,
+      "loop": false
+    },
+    "type": {
+      "start": 69.9,
+      "end": 70.00448979591837,
+      "loop": false
+    },
+    "wheel-spinning": {
+      "start": 71,
+      "end": 76.46131519274377,
+      "loop": false
+    }
+  }
+}

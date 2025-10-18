@@ -1,0 +1,4 @@
+{"producer":{"name":"Blender","version":"3.6.9","exporter_version":"3.3.2","file":"scene_edit.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
+"cameras":[{"name":"Camera","id":"Camera","position":[-6.4997,1.3465,-9.2639],"rotation":[-0.0265,0.7689,0.0416],"fov":0.6911,"minZ":0.1,"maxZ":1000,"ellipsoid":[0.2,0.9,0.2],"type":"UniversalCamera"}]
+}

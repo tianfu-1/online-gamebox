@@ -1,0 +1,23 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "en-US"
+            },
+            "messages": {
+                "ClickToOpen": "Click to Open!",
+                "ClickToContinue": "Click to Continue",
+                "Continue": "Continue",
+                "Claim": "Claim",
+                "You need a Coral Expedition Ticket to send the submarine": "You need a Coral Expedition Ticket to send the submarine",
+                "Increases coin drop by ": "Increases coin drop by ",
+                "Increases gem drop by ": "Increases gem drop by ",
+                "Increases exp gain rate by ": "Increases exp gain rate by ",
+                "Increases luck by ": "Increases luck by "
+            }
+        }
+    ]
+}

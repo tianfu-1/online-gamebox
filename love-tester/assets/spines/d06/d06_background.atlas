@@ -1,0 +1,152 @@
+
+d06_background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+action
+  rotate: true
+  xy: 693, 161
+  size: 595, 936
+  orig: 595, 936
+  offset: 0, 0
+  index: -1
+actionbg
+  rotate: false
+  xy: 1246, 758
+  size: 736, 542
+  orig: 736, 542
+  offset: 0, 0
+  index: -1
+actionlines
+  rotate: true
+  xy: 1656, 1302
+  size: 479, 354
+  orig: 479, 354
+  offset: 0, 0
+  index: -1
+beam
+  rotate: true
+  xy: 581, 1783
+  size: 119, 1265
+  orig: 119, 1265
+  offset: 0, 0
+  index: -1
+burnin
+  rotate: true
+  xy: 2, 1945
+  size: 65, 339
+  orig: 133, 357
+  offset: 41, 0
+  index: -1
+center_lines
+  rotate: false
+  xy: 732, 969
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+crayon
+  rotate: false
+  xy: 260, 1505
+  size: 871, 276
+  orig: 871, 276
+  offset: 0, 0
+  index: -1
+heat
+  rotate: false
+  xy: 2, 425
+  size: 689, 767
+  orig: 689, 767
+  offset: 0, 0
+  index: -1
+laserbeam
+  rotate: false
+  xy: 2, 1194
+  size: 728, 309
+  orig: 728, 309
+  offset: 0, 0
+  index: -1
+laserdot
+  rotate: true
+  xy: 343, 1945
+  size: 65, 85
+  orig: 92, 106
+  offset: 14, 11
+  index: -1
+pole_lower
+  rotate: true
+  xy: 2, 1807
+  size: 119, 577
+  orig: 119, 577
+  offset: 0, 0
+  index: -1
+pole_top
+  rotate: true
+  xy: 838, 1904
+  size: 106, 799
+  orig: 106, 799
+  offset: 0, 0
+  index: -1
+ropehanging
+  rotate: false
+  xy: 1133, 1483
+  size: 521, 298
+  orig: 521, 298
+  offset: 0, 0
+  index: -1
+smokecloud1
+  rotate: true
+  xy: 513, 1928
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+smokecloud2
+  rotate: false
+  xy: 430, 1930
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+speed-1
+  rotate: false
+  xy: 628, 1907
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+speed-2
+  rotate: false
+  xy: 733, 1907
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+test-bg
+  rotate: false
+  xy: 2, 1549
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+d06_background2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D06_BG1
+  rotate: false
+  xy: 2, 518
+  size: 769, 1024
+  orig: 769, 1024
+  offset: 0, 0
+  index: -1
+D06_BG2
+  rotate: false
+  xy: 773, 518
+  size: 769, 1024
+  orig: 769, 1024
+  offset: 0, 0
+  index: -1

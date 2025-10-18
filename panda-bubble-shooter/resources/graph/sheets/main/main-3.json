@@ -1,0 +1,53 @@
+{"frames": {
+
+"chaptersMenu_background":
+{
+	"frame": {"x":811,"y":801,"w":550,"h":1100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":1100},
+	"sourceSize": {"w":550,"h":1100}
+},
+"fortuneMenu_background":
+{
+	"frame": {"x":811,"y":801,"w":550,"h":1100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":1100},
+	"sourceSize": {"w":550,"h":1100}
+},
+"fortuneMenu_wheel":
+{
+	"frame": {"x":3,"y":3,"w":777,"h":776},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":12,"w":777,"h":776},
+	"sourceSize": {"w":800,"h":800}
+},
+"fortuneMenu_wheel_shadow":
+{
+	"frame": {"x":3,"y":801,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"fortuneMenu_wheel_spinFront":
+{
+	"frame": {"x":788,"y":3,"w":790,"h":790},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":790,"h":790},
+	"sourceSize": {"w":800,"h":800}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "main-3.png",
+	"format": "RGBA8888",
+	"size": {"w":1904,"h":1904},
+	"scale": "1",
+	"related_multi_packs": [ "main-1.json", "main-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b6a5bb909b1d3099516c518ea138d9e4:b49c881cca665c287fa270b774ca60b3:ce67bf814e3f03455efd85ad51c1036a$"
+}
+}

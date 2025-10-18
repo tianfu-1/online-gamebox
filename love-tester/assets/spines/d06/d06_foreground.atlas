@@ -1,0 +1,90 @@
+
+d06_foreground.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bam
+  rotate: false
+  xy: 2, 739
+  size: 533, 521
+  orig: 533, 521
+  offset: 0, 0
+  index: -1
+bam2
+  rotate: false
+  xy: 537, 709
+  size: 533, 521
+  orig: 533, 521
+  offset: 0, 0
+  index: -1
+calculating
+  rotate: false
+  xy: 2, 1262
+  size: 606, 277
+  orig: 606, 277
+  offset: 0, 0
+  index: -1
+pole_top
+  rotate: true
+  xy: 695, 1532
+  size: 106, 799
+  orig: 106, 799
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 278, 1555
+  size: 315, 83
+  orig: 315, 83
+  offset: 0, 0
+  index: -1
+ropebroken
+  rotate: true
+  xy: 1496, 1531
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1
+ropehanging
+  rotate: false
+  xy: 610, 1232
+  size: 521, 298
+  orig: 521, 298
+  offset: 0, 0
+  index: -1
+scream
+  rotate: true
+  xy: 1133, 1121
+  size: 408, 467
+  orig: 408, 467
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 595, 1541
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+star2
+  rotate: true
+  xy: 121, 1587
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+whoosh
+  rotate: false
+  xy: 2, 1601
+  size: 117, 37
+  orig: 117, 37
+  offset: 0, 0
+  index: -1
+whoosh2
+  rotate: false
+  xy: 176, 1587
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1

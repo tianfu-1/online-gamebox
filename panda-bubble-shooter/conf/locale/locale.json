@@ -1,0 +1,19 @@
+{
+  "languages" : {
+    "en" : {
+      "name": "English",
+      "code" : "en",
+      "icon" : "langUK"
+    },
+    "ru" : {
+      "name": "Русский",
+      "code" : "ru",
+      "icon" : "langRussia"
+    },
+    "fr" : {
+      "name": "Français",
+      "code" : "fr",
+      "icon" : "langFrance"
+    }
+  }
+}

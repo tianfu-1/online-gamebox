@@ -1,0 +1,31 @@
+{
+  "types": {
+    "TunTunTunSahur": 0,
+    "Ballerina": 1,
+    "CapucinoAssasino": 2,
+    "KarpuziMakiyato": 3,
+    "BombardinoCrocodilo": 4,
+    "TralalaTrelolo": 5,
+    "LirilaraLirilero": 6,
+    "ChampanziniBanananini": 7,
+    "BonecaAmbalabu": 8,
+    "Burbalonilulliloli": 9,
+    "Udindindindun": 10,
+    "SixtySeven": 11
+
+  },
+ "rarity": {
+    "0": ["TunTunTunSahur", "Ballerina", "CapucinoAssasino", "KarpuziMakiyato",  "BombardinoCrocodilo", "TralalaTrelolo", "LirilaraLirilero", "BonecaAmbalabu", "Burbalonilulliloli", "Udindindindun"],
+    "1": ["TunTunTunSahur", "Ballerina", "CapucinoAssasino", "KarpuziMakiyato", "TralalaTrelolo", "LirilaraLirilero", "BonecaAmbalabu", "Burbalonilulliloli", "Udindindindun"],
+    "2": ["TunTunTunSahur", "Ballerina", "CapucinoAssasino", "KarpuziMakiyato", "BombardinoCrocodilo", "TralalaTrelolo", "LirilaraLirilero", "BonecaAmbalabu", "Burbalonilulliloli", "Udindindindun"],
+    "3": ["TunTunTunSahur", "Ballerina", "CapucinoAssasino", "KarpuziMakiyato", "BombardinoCrocodilo", "TralalaTrelolo", "LirilaraLirilero", "BonecaAmbalabu", "Burbalonilulliloli", "Udindindindun"],
+    "4": ["ChampanziniBanananini", "Udindindindun", "SixtySeven"]
+  },
+  "rarityRates": {
+    "0": 70,
+    "1": 20,
+    "2": 6,
+    "3": 3,
+    "4": 1
+  }
+}

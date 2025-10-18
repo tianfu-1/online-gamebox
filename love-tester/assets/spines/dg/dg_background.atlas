@@ -1,0 +1,139 @@
+
+dg_background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: true
+  xy: 520, 1247
+  size: 769, 1025
+  orig: 769, 1025
+  offset: 0, 0
+  index: -1
+branch_base
+  rotate: false
+  xy: 1824, 1135
+  size: 192, 423
+  orig: 192, 423
+  offset: 0, 0
+  index: -1
+branch_broken
+  rotate: false
+  xy: 1139, 214
+  size: 346, 155
+  orig: 346, 155
+  offset: 0, 0
+  index: -1
+branch_chip_1
+  rotate: true
+  xy: 730, 794
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+branch_chip_2
+  rotate: false
+  xy: 796, 793
+  size: 22, 53
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+branch_chip_3
+  rotate: false
+  xy: 749, 746
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+branch_chip_4
+  rotate: false
+  xy: 730, 740
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+branch_full
+  rotate: true
+  xy: 1547, 1560
+  size: 456, 423
+  orig: 456, 423
+  offset: 0, 0
+  index: -1
+calculating
+  rotate: true
+  xy: 1652, 247
+  size: 606, 277
+  orig: 606, 277
+  offset: 0, 0
+  index: -1
+cloud_1
+  rotate: false
+  xy: 1751, 865
+  size: 201, 74
+  orig: 201, 74
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: false
+  xy: 1482, 855
+  size: 267, 84
+  orig: 267, 84
+  offset: 0, 0
+  index: -1
+grass_1
+  rotate: false
+  xy: 2, 108
+  size: 877, 599
+  orig: 877, 599
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 881, 371
+  size: 769, 475
+  orig: 769, 475
+  offset: 0, 0
+  index: -1
+r_tree
+  rotate: true
+  xy: 520, 848
+  size: 397, 960
+  orig: 397, 960
+  offset: 0, 0
+  index: -1
+speed-1
+  rotate: false
+  xy: 520, 743
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+speed-2
+  rotate: false
+  xy: 625, 743
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+test-bg
+  rotate: false
+  xy: 881, 113
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tree_base
+  rotate: false
+  xy: 2, 709
+  size: 516, 1307
+  orig: 516, 1307
+  offset: 0, 0
+  index: -1
+zigzag-border
+  rotate: true
+  xy: 1547, 941
+  size: 617, 275
+  orig: 617, 275
+  offset: 0, 0
+  index: -1

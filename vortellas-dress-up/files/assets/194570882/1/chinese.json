@@ -1,0 +1,47 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "zh"
+            },
+            "messages": {
+                "Color 1": "颜色 1",
+                "Color 2": "颜色 2",
+                "Color 3": "颜色 3",
+                "Reset": "重置",
+                "Outfit": "服装",
+                "Room": "房间",
+                "Tasks": "任务",
+                "First outfit": "第一套服装",
+                "All pink": "全粉色",
+                "At the club": "在俱乐部",
+                "All black": "全黑色",
+                "Professional": "职业装",
+                "Colorful": "五彩缤纷",
+                "Workout": "运动装",
+                "All tasks complete!": "所有任务完成！",
+                "Check again soon!": "请稍后再检查！",
+                "Hello,": "你好，",
+                "Create Room": "创建房间",
+                "Join Room": "加入房间",
+                "Reset Outfit": "重置服装",
+                "Creating room...": "正在创建房间...",
+                "Room Code": "房间代码",
+                "Copy": "复制",
+                "Leave Room": "离开房间",
+                "Are you sure you want to leave?": "你确定要离开吗？",
+                "Stay in Room": "留在房间",
+                "Leaving Room...": "正在离开房间...",
+                "Join": "加入",
+                "Back": "返回",
+                "Sorry, room not found for code: ": "抱歉，未找到该代码的房间：",
+                "Joining Room": "正在加入房间",
+                "Are you sure you want to reset your outfit?": "你确定要重置你的服装吗？",
+                "Keep Outfit": "保持当前服装"
+            }
+        }
+    ]
+}

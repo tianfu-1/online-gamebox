@@ -1,0 +1,23 @@
+window.ASSET_PREFIX = "";
+window.SCRIPT_PREFIX = "";
+window.SCENE_PATH = "1984042.json";
+window.CONTEXT_OPTIONS = {
+    'antialias': true,
+    'alpha': false,
+    'preserveDrawingBuffer': false,
+    'deviceTypes': [`webgl2`, `webgl1`],
+    'powerPreference': "default"
+};
+window.SCRIPTS = [ 176682161, 203100306, 203130089, 193492308, 174712667, 176760229, 197820715, 177234494, 176175682, 186741990, 189544101, 174712347, 174712348, 174712349, 174712350, 174712659, 174712668, 174712700, 174712701, 174720285, 189500740, 181045262, 176447062, 174723722, 176270733, 176143837, 176669058, 176682166, 176728684, 193135895, 183449322, 176682168, 180598068, 189835898, 180845383, 180938648, 181092900, 198889308, 180679283, 178854017, 181497449, 182172930, 183240163, 182931198, 183394749, 183548914, 183649451, 184924175, 184950770, 187148915, 188607827, 188618361, 190177554, 188607828, 188869901, 189615527, 189192428, 189490158, 190370555, 191492903, 191871821, 193197578, 193359550, 186718080, 194474648, 195107323, 195444571, 195561042, 196987773, 196250306, 196864646, 202609736, 197281771, 202833196, 204953617, 204971046, 206221832, 207441207, 206580562, 206758688, 207427500, 211015704 ];
+window.CONFIG_FILENAME = "config.json";
+window.INPUT_SETTINGS = {
+    useKeyboard: true,
+    useMouse: true,
+    useGamepads: false,
+    useTouch: true
+};
+pc.script.legacy = false;
+window.PRELOAD_MODULES = [
+    {'moduleName' : 'BASIS', 'glueUrl' : 'files/assets/198810233/1/basis.wasm.js', 'wasmUrl' : 'files/assets/198810231/1/basis.wasm.wasm', 'fallbackUrl' : 'files/assets/198810232/1/basis.js', 'preload' : false},
+    {'moduleName' : 'Ammo', 'glueUrl' : 'files/assets/205690136/1/ammo.wasm.js', 'wasmUrl' : 'files/assets/205690137/1/ammo.wasm.wasm', 'fallbackUrl' : 'files/assets/205690135/1/ammo.js', 'preload' : true},
+];

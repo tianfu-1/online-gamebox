@@ -1,0 +1,159 @@
+
+ln_background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backdrop_lighting
+  rotate: false
+  xy: 613, 656
+  size: 884, 477
+  orig: 884, 477
+  offset: 0, 0
+  index: -1
+backdrop_normal
+  rotate: true
+  xy: 1499, 249
+  size: 884, 477
+  orig: 884, 477
+  offset: 0, 0
+  index: -1
+building
+  rotate: false
+  xy: 1029, 1943
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+cloud_dark
+  rotate: false
+  xy: 1380, 1532
+  size: 443, 296
+  orig: 443, 296
+  offset: 0, 0
+  index: -1
+cloud_light
+  rotate: false
+  xy: 937, 1533
+  size: 441, 295
+  orig: 441, 295
+  offset: 0, 0
+  index: -1
+cloud_lighting
+  rotate: false
+  xy: 494, 1672
+  size: 441, 294
+  orig: 441, 294
+  offset: 0, 0
+  index: -1
+lightning-bolt-2
+  rotate: false
+  xy: 1299, 1135
+  size: 579, 395
+  orig: 579, 395
+  offset: 0, 0
+  index: -1
+lightning-bolt-3
+  rotate: true
+  xy: 2, 1812
+  size: 154, 232
+  orig: 154, 233
+  offset: 0, 0
+  index: -1
+lightning-bolt_1
+  rotate: true
+  xy: 773, 1179
+  size: 352, 524
+  orig: 352, 524
+  offset: 0, 0
+  index: -1
+lightning-impact
+  rotate: true
+  xy: 2, 734
+  size: 584, 609
+  orig: 585, 610
+  offset: 1, 0
+  index: -1
+lightning-zap
+  rotate: true
+  xy: 2, 101
+  size: 553, 933
+  orig: 554, 933
+  offset: 1, 0
+  index: -1
+side-bar
+  rotate: false
+  xy: 2, 1320
+  size: 769, 350
+  orig: 769, 350
+  offset: 0, 0
+  index: -1
+sky_lighting
+  rotate: true
+  xy: 2, 1973
+  size: 3, 1025
+  orig: 3, 1025
+  offset: 0, 0
+  index: -1
+sky_normal
+  rotate: true
+  xy: 2, 1968
+  size: 3, 1025
+  orig: 3, 1025
+  offset: 0, 0
+  index: -1
+speed-2
+  rotate: false
+  xy: 1064, 1873
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+test-bg
+  rotate: false
+  xy: 236, 1710
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 1169, 1830
+  size: 669, 146
+  orig: 669, 146
+  offset: 0, 0
+  index: -1
+
+ln_background2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background_3
+  rotate: false
+  xy: 1155, 899
+  size: 769, 1025
+  orig: 769, 1025
+  offset: 0, 0
+  index: -1
+lightning-building-slice
+  rotate: false
+  xy: 1155, 175
+  size: 769, 722
+  orig: 769, 722
+  offset: 0, 0
+  index: -1
+lightning-rod-strike
+  rotate: false
+  xy: 2, 597
+  size: 576, 1327
+  orig: 576, 1328
+  offset: 0, 0
+  index: -1
+lightning-rod_normal
+  rotate: false
+  xy: 580, 611
+  size: 573, 1313
+  orig: 574, 1313
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,12 @@
+{
+"companyName": "Rabbit Mountain",
+"productName": "Aqua Thrills",
+"dataUrl": "PokiWebGL.data.unityweb?v=1",
+"wasmCodeUrl": "PokiWebGL.wasm.code.unityweb?v=1",
+"wasmFrameworkUrl": "PokiWebGL.wasm.framework.unityweb?v=1",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#201E20"
+}

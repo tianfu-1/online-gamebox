@@ -1,0 +1,287 @@
+{"frames": {
+
+"pandaDaddy_ingame_win/0000":
+{
+	"frame": {"x":707,"y":1,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0001":
+{
+	"frame": {"x":707,"y":1,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0002":
+{
+	"frame": {"x":707,"y":1,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0003":
+{
+	"frame": {"x":707,"y":1,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0004":
+{
+	"frame": {"x":942,"y":1,"w":229,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":151,"w":229,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0005":
+{
+	"frame": {"x":942,"y":1,"w":229,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":151,"w":229,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0006":
+{
+	"frame": {"x":942,"y":1,"w":229,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":151,"w":229,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0007":
+{
+	"frame": {"x":942,"y":1,"w":229,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":151,"w":229,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0008":
+{
+	"frame": {"x":478,"y":246,"w":230,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":150,"w":230,"h":242},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0009":
+{
+	"frame": {"x":478,"y":246,"w":230,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":150,"w":230,"h":242},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0010":
+{
+	"frame": {"x":478,"y":246,"w":230,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":150,"w":230,"h":242},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0011":
+{
+	"frame": {"x":478,"y":246,"w":230,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":150,"w":230,"h":242},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0012":
+{
+	"frame": {"x":242,"y":247,"w":234,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":148,"w":234,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0013":
+{
+	"frame": {"x":1,"y":247,"w":239,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":148,"w":239,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0014":
+{
+	"frame": {"x":1,"y":247,"w":239,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":148,"w":239,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0015":
+{
+	"frame": {"x":1,"y":247,"w":239,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":148,"w":239,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0016":
+{
+	"frame": {"x":1,"y":247,"w":239,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":148,"w":239,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0017":
+{
+	"frame": {"x":710,"y":244,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0018":
+{
+	"frame": {"x":710,"y":244,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0019":
+{
+	"frame": {"x":710,"y":244,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0020":
+{
+	"frame": {"x":710,"y":244,"w":233,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":151,"w":233,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0021":
+{
+	"frame": {"x":945,"y":244,"w":228,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":151,"w":228,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0022":
+{
+	"frame": {"x":945,"y":244,"w":228,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":151,"w":228,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0023":
+{
+	"frame": {"x":945,"y":244,"w":228,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":151,"w":228,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0024":
+{
+	"frame": {"x":945,"y":244,"w":228,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":151,"w":228,"h":241},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0025":
+{
+	"frame": {"x":476,"y":1,"w":229,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":149,"w":229,"h":243},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0026":
+{
+	"frame": {"x":476,"y":1,"w":229,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":149,"w":229,"h":243},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0027":
+{
+	"frame": {"x":476,"y":1,"w":229,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":149,"w":229,"h":243},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0028":
+{
+	"frame": {"x":476,"y":1,"w":229,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":149,"w":229,"h":243},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0029":
+{
+	"frame": {"x":243,"y":1,"w":231,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":148,"w":231,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0030":
+{
+	"frame": {"x":1,"y":1,"w":240,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":148,"w":240,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0031":
+{
+	"frame": {"x":1,"y":1,"w":240,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":148,"w":240,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0032":
+{
+	"frame": {"x":1,"y":1,"w":240,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":148,"w":240,"h":244},
+	"sourceSize": {"w":300,"h":400}
+},
+"pandaDaddy_ingame_win/0033":
+{
+	"frame": {"x":1,"y":1,"w":240,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":148,"w":240,"h":244},
+	"sourceSize": {"w":300,"h":400}
+}},
+"animations": {
+	"pandaDaddy_ingame_win": ["pandaDaddy_ingame_win/0000","pandaDaddy_ingame_win/0001","pandaDaddy_ingame_win/0002","pandaDaddy_ingame_win/0003","pandaDaddy_ingame_win/0004","pandaDaddy_ingame_win/0005","pandaDaddy_ingame_win/0006","pandaDaddy_ingame_win/0007","pandaDaddy_ingame_win/0008","pandaDaddy_ingame_win/0009","pandaDaddy_ingame_win/0010","pandaDaddy_ingame_win/0011","pandaDaddy_ingame_win/0012","pandaDaddy_ingame_win/0013","pandaDaddy_ingame_win/0014","pandaDaddy_ingame_win/0015","pandaDaddy_ingame_win/0016","pandaDaddy_ingame_win/0017","pandaDaddy_ingame_win/0018","pandaDaddy_ingame_win/0019","pandaDaddy_ingame_win/0020","pandaDaddy_ingame_win/0021","pandaDaddy_ingame_win/0022","pandaDaddy_ingame_win/0023","pandaDaddy_ingame_win/0024","pandaDaddy_ingame_win/0025","pandaDaddy_ingame_win/0026","pandaDaddy_ingame_win/0027","pandaDaddy_ingame_win/0028","pandaDaddy_ingame_win/0029","pandaDaddy_ingame_win/0030","pandaDaddy_ingame_win/0031","pandaDaddy_ingame_win/0032","pandaDaddy_ingame_win/0033"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "characters_pandaWin.png",
+	"format": "RGBA8888",
+	"size": {"w":1174,"h":492},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1af809b2d22195fb8464471c94153e46:fabebafe179097229a026d9497a49915:bd0e8c717f3e8c5b4435bbcc553acac7$"
+}
+}

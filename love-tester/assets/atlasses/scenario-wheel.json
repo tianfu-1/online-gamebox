@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "scenario-wheel.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "scenario-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 881,
+						"h": 515
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 881,
+						"h": 515
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 881,
+						"h": 515
+					}
+				},
+				{
+					"filename": "scenario-0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 881,
+						"h": 514
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 881,
+						"h": 514
+					},
+					"frame": {
+						"x": 884,
+						"y": 1,
+						"w": 881,
+						"h": 514
+					}
+				},
+				{
+					"filename": "arrow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 152
+					},
+					"frame": {
+						"x": 1767,
+						"y": 1,
+						"w": 156,
+						"h": 152
+					}
+				},
+				{
+					"filename": "film_slide",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 514
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 514
+					},
+					"frame": {
+						"x": 1767,
+						"y": 155,
+						"w": 130,
+						"h": 514
+					}
+				},
+				{
+					"filename": "scenario-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 881,
+						"h": 514
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 881,
+						"h": 514
+					},
+					"frame": {
+						"x": 884,
+						"y": 517,
+						"w": 881,
+						"h": 514
+					}
+				},
+				{
+					"filename": "scenario-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 881,
+						"h": 514
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 881,
+						"h": 514
+					},
+					"frame": {
+						"x": 1,
+						"y": 518,
+						"w": 881,
+						"h": 514
+					}
+				},
+				{
+					"filename": "scenario-4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 881,
+						"h": 514
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 881,
+						"h": 514
+					},
+					"frame": {
+						"x": 884,
+						"y": 1033,
+						"w": 881,
+						"h": 514
+					}
+				},
+				{
+					"filename": "glow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 742,
+						"h": 515
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 742,
+						"h": 515
+					},
+					"frame": {
+						"x": 1,
+						"y": 1034,
+						"w": 742,
+						"h": 515
+					}
+				},
+				{
+					"filename": "film_bar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 612,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 612,
+						"h": 10
+					},
+					"frame": {
+						"x": 1,
+						"y": 1551,
+						"w": 612,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:557a916417f78ed31736e3d4a50ac84f:6494bc14cd60c1b6f1884d64c7375166:ff016c2c0d0810fc45eefcfc9704af2d$"
+	}
+}

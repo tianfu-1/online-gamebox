@@ -1,0 +1,97 @@
+
+meter.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar
+  rotate: true
+  xy: 226, 22
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+blink
+  rotate: false
+  xy: 226, 56
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+heart-loading-1
+  rotate: true
+  xy: 293, 82
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+heart-loading-2
+  rotate: false
+  xy: 269, 60
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+heart-loading-3
+  rotate: false
+  xy: 269, 76
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+heart-loading-4
+  rotate: true
+  xy: 293, 65
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+heart-loading-5
+  rotate: false
+  xy: 226, 5
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+heart-loading-6
+  rotate: false
+  xy: 278, 8
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+heart-loading-7
+  rotate: false
+  xy: 262, 7
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+heart-loading-8
+  rotate: true
+  xy: 245, 6
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+heart_broken
+  rotate: false
+  xy: 2, 2
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+heart_full
+  rotate: false
+  xy: 114, 2
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 2, 99
+  size: 292, 310
+  orig: 299, 314
+  offset: 3, 0
+  index: -1

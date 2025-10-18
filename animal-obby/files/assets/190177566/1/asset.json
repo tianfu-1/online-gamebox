@@ -1,0 +1,49 @@
+{ 
+    "personal": {
+        "position": 2957,
+        "name": "Tom Rawcliffe",
+        "score": 21
+    },
+    "leaderboard": [
+        {
+            "name": "Leila Gill",
+            "score": 10874
+        },
+        {
+            "name": "Ina Bush",
+            "score": 10871
+        },
+        {
+            "name": "Abbie Ramsey",
+            "score": 10021
+        },
+        {
+            "name": "Rosa Ruiz",
+            "score": 8023
+        },
+        {
+            "name": "Carrie Stokes",
+            "score": 7459
+        },
+        {
+            "name": "Linnie Dean",
+            "score": 7431
+        },
+        {
+            "name": "Emily Jennings",
+            "score": 4119
+        },
+        {
+            "name": "Eliza Perez",
+            "score": 4090
+        },
+        {
+            "name": "Mina Carlson",
+            "score": 2180
+        },
+        {
+            "name": "Ethel Floyd",
+            "score": 728
+        }
+    ]
+}

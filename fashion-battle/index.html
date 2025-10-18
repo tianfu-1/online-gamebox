@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+    <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover' />
+    <meta charset='utf-8'>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <style></style>
+    <title>Fashion Battle</title>
+
+    <script>
+        window.famobi_gameID = "fashion-battle"; // the actual GAMEID is added to the final version by Famobi
+        window.famobi_gameJS = [
+            "playcanvas-stable.min.js",
+            "files/assets/182696836/1/APIMediator.js",
+            "files/assets/184800021/1/ShaderTest.js",
+            "__settings__.js",
+            "__modules__.js",
+            "__start__.js",
+            "__loading__.js",
+            function () {},
+        ];
+        (function (document, url, fgJS, firstJS) {
+            fgJS = document.createElement("script");
+            firstJS = document.getElementsByTagName("script")[0];
+            fgJS.src = url + "";
+            firstJS.parentNode.insertBefore(fgJS, firstJS);
+        })(document, './html5games/gameapi/v1.js?e=');
+    </script>
+</head>
+<body>
+</body>
+</html>

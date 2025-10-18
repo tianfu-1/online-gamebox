@@ -1,0 +1,42 @@
+{
+  "reg" : [
+    {"id" :  1, "count" :  1},
+    {"id" :  2, "count" :  3},
+    {"id" :  3, "count" :  3},
+    {"id" :  4, "count" :  3}
+  ],
+  "list" : [
+    {
+      "id" : 1,
+      "level" : 1,
+      "name" : "BOOST_1",
+      "description" : "BOOST_1_DESC",
+      "icon" : "boost_icon_moves",
+      "ingame" : 0
+    },
+    {
+      "id" : 2,
+      "level" : 5,
+      "name" : "BOOST_2",
+      "description" : "BOOST_2_DESC",
+      "icon" : "boost_icon_arrow",
+      "ingame" : 1
+    },
+    {
+      "id" : 3,
+      "level" : 7,
+      "name" : "BOOST_3",
+      "description" : "BOOST_3_DESC",
+      "icon" : "boost_icon_multi",
+      "ingame" : 1
+    },
+    {
+      "id" : 4,
+      "level" : 11,
+      "name" : "BOOST_4",
+      "description" : "BOOST_4_DESC",
+      "icon" : "boost_icon_fireball",
+      "ingame" : 1
+    }
+  ]
+}

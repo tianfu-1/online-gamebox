@@ -1,0 +1,47 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "ja"
+            },
+            "messages": {
+                "Color 1": "カラー 1",
+                "Color 2": "カラー 2",
+                "Color 3": "カラー 3",
+                "Reset": "リセット",
+                "Outfit": "衣装",
+                "Room": "ルーム",
+                "Tasks": "タスク",
+                "First outfit": "最初の衣装",
+                "All pink": "オールピンク",
+                "At the club": "クラブで",
+                "All black": "オールブラック",
+                "Professional": "プロフェッショナル",
+                "Colorful": "カラフル",
+                "Workout": "スポーツウェア",
+                "All tasks complete!": "すべてのタスクが完了しました！",
+                "Check again soon!": "またすぐに確認してください！",
+                "Hello,": "こんにちは、",
+                "Create Room": "ルームを作成",
+                "Join Room": "ルームに参加",
+                "Reset Outfit": "衣装をリセット",
+                "Creating room...": "ルームを作成中...",
+                "Room Code": "ルームコード",
+                "Copy": "コピー",
+                "Leave Room": "ルームを退出",
+                "Are you sure you want to leave?": "本当に退出しますか？",
+                "Stay in Room": "ルームに留まる",
+                "Leaving Room...": "ルームを退出中...",
+                "Join": "参加",
+                "Back": "戻る",
+                "Sorry, room not found for code: ": "申し訳ありませんが、このコードのルームが見つかりません：",
+                "Joining Room": "ルームに参加中",
+                "Are you sure you want to reset your outfit?": "本当に衣装をリセットしますか？",
+                "Keep Outfit": "衣装を保持"
+            }
+        }
+    ]
+}

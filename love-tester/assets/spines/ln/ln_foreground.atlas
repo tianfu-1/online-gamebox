@@ -1,0 +1,55 @@
+
+ln_foreground.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning-angry
+  rotate: true
+  xy: 338, 347
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+lightning-cloud-normal-3
+  rotate: false
+  xy: 2, 2
+  size: 441, 295
+  orig: 441, 295
+  offset: 0, 0
+  index: -1
+lightning-note-4
+  rotate: true
+  xy: 2, 419
+  size: 26, 45
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+lightning-note-8
+  rotate: true
+  xy: 177, 403
+  size: 42, 49
+  orig: 43, 50
+  offset: 1, 0
+  index: -1
+lightning-spin-1
+  rotate: false
+  xy: 228, 390
+  size: 108, 55
+  orig: 108, 55
+  offset: 0, 0
+  index: -1
+lightning-spin-2
+  rotate: false
+  xy: 49, 405
+  size: 126, 40
+  orig: 126, 40
+  offset: 0, 0
+  index: -1
+lightning-star
+  rotate: true
+  xy: 2, 299
+  size: 104, 106
+  orig: 105, 106
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,188 @@
+[
+  {
+    "free_item": "coin",
+    "free_value": 10,
+    "paid_item": "heart",
+    "paid_value": 30
+  },
+  {
+    "free_item": "drill",
+    "free_value": 1,
+    "paid_item": "drill",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 20,
+    "paid_item": "coin",
+    "paid_value": 100
+  },
+  {
+    "free_item": "hammer",
+    "free_value": 1,
+    "paid_item": "magnet",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 30,
+    "paid_item": "coin",
+    "paid_value": 200
+  },
+  {
+    "free_item": "toolbox",
+    "free_value": 1,
+    "paid_item": "toolbox",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 20,
+    "paid_item": "coin",
+    "paid_value": 150
+  },
+  {
+    "free_item": "heart",
+    "free_value": 15,
+    "paid_item": "heart",
+    "paid_value": 60
+  },
+  {
+    "free_item": "magnet",
+    "free_value": 1,
+    "paid_item": "magnet",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 40,
+    "paid_item": "coin",
+    "paid_value": 100
+  },
+  {
+    "free_item": "toolbox",
+    "free_value": 1,
+    "paid_item": "drill",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 20,
+    "paid_item": "coin",
+    "paid_value": 60
+  },
+  {
+    "free_item": "heart",
+    "free_value": 15,
+    "paid_item": "coin",
+    "paid_value": 60
+  },
+  {
+    "free_item": "coin",
+    "free_value": 40,
+    "paid_item": "coin",
+    "paid_value": 100
+  },
+  {
+    "free_item": "drill",
+    "free_value": 1,
+    "paid_item": "drill",
+    "paid_value": 3
+  },
+  {
+    "free_item": "hammer",
+    "free_value": 1,
+    "paid_item": "hammer",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 20,
+    "paid_item": "coin",
+    "paid_value": 60
+  },
+  {
+    "free_item": "manget",
+    "free_value": 1,
+    "paid_item": "magnet",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 40,
+    "paid_item": "coin",
+    "paid_value": 200
+  },
+  {
+    "free_item": "heart",
+    "free_value": 10,
+    "paid_item": "heart",
+    "paid_value": 30
+  },
+  {
+    "free_item": "coin",
+    "free_value": 60,
+    "paid_item": "coin",
+    "paid_value": 200
+  },
+  {
+    "free_item": "drill",
+    "free_value": 1,
+    "paid_item": "drill",
+    "paid_value": 2
+  },
+  {
+    "free_item": "hammer",
+    "free_value": 1,
+    "paid_item": "hammer",
+    "paid_value": 2
+  },
+  {
+    "free_item": "toolbox",
+    "free_value": 1,
+    "paid_item": "toolbox",
+    "paid_value": 3
+  },
+  {
+    "free_item": "heart",
+    "free_value": 10,
+    "paid_item": "heart",
+    "paid_value": 30
+  },
+  {
+    "free_item": "coin",
+    "free_value": 100,
+    "paid_item": "coin",
+    "paid_value": 200
+  },
+  {
+    "free_item": "magnet",
+    "free_value": 1,
+    "paid_item": "magnet",
+    "paid_value": 3
+  },
+  {
+    "free_item": "coin",
+    "free_value": 20,
+    "paid_item": "coin",
+    "paid_value": 60
+  },
+  {
+    "free_item": "hammer",
+    "free_value": 1,
+    "paid_item": "hammer",
+    "paid_value": 2
+  },
+  {
+    "free_item": "coin",
+    "free_value": 40,
+    "paid_item": "coin",
+    "paid_value": 100
+  },
+  {
+    "free_item": "drill",
+    "free_value": 3,
+    "paid_item": "coin",
+    "paid_value": 600
+  }
+]

@@ -1,0 +1,47 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "pl"
+            },
+            "messages": {
+                "Color 1": "Kolor 1",
+                "Color 2": "Kolor 2",
+                "Color 3": "Kolor 3",
+                "Reset": "Resetuj",
+                "Outfit": "Strój",
+                "Room": "Pokój",
+                "Tasks": "Zadania",
+                "First outfit": "Pierwszy strój",
+                "All pink": "Cały różowy",
+                "At the club": "W klubie",
+                "All black": "Cały czarny",
+                "Professional": "Profesjonalny",
+                "Colorful": "Kolorowy",
+                "Workout": "Sportowy",
+                "All tasks complete!": "Wszystkie zadania ukończone!",
+                "Check again soon!": "Sprawdź ponownie wkrótce!",
+                "Hello,": "Czesc,",
+                "Create Room": "Utwórz pokój",
+                "Join Room": "Dolacz do pokoju",
+                "Reset Outfit": "Resetuj strój",
+                "Creating room...": "Tworzenie pokoju...",
+                "Room Code": "Kod pokoju",
+                "Copy": "Kopiuj",
+                "Leave Room": "Opusc pokój",
+                "Are you sure you want to leave?": "Czy na pewno chcesz opuscic pokój?",
+                "Stay in Room": "Zostan w pokoju",
+                "Leaving room...": "Opuszczanie pokoju...",
+                "Join": "Dolacz",
+                "Back": "Wstecz",
+                "Sorry, room not found for code: ": "Przepraszamy, nie znaleziono pokoju dla kodu: ",
+                "Joining room...": "Dolaczanie do pokoju",
+                "Are you sure you want to reset your outfit?": "Czy na pewno chcesz zresetowac swój strój?",
+                "Keep Outfit": "Zachowaj strój"
+            }
+        }
+    ]
+}

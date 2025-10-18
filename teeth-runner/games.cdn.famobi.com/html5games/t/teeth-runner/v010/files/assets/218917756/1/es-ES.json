@@ -1,0 +1,59 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "es-ES"
+            },
+            "messages": {
+                "TAP TO START": "TOCA PARA EMPEZAR",
+                "SETTINGS": "AJUSTES",
+                "Sound:": "Sonido:",
+                "Music:":"Música",
+                "BIG REWARD": "GRAN RECOMPENSA", 
+                "MISSION TO UNLOCK": "MISIÓN PARA DESBLOQUEAR", 
+                "CLAIM": "RECLAMAR",
+                "DAILY MISSIONS": "MISIONES DIARIAS", 
+                "COLLECT": "RECOGER",
+                
+                "CLEAR 5": "LIMPIAR 5",
+                "LEVELS": "NIVELES",
+
+                "FREE CLAIM": "RECLAMAR GRATIS", 
+                "COMPLETED": "COMPLETADO",
+                "LEVEL #": "NIVEL #", 
+                "SPEED X0": "VELOCIDAD X#", 
+                "MAX": "MÁX",
+                "FEVER": "FIEBRE",
+                "SCRATCH TEETH": "RASCAR DIENTES", 
+                "BONUS X1.0": "BONUS X1.0", 
+                "TAP-TAP!": "¡TOCA-TOCA!",
+                "CANNON POWER X10": "POTENCIA DEL CAÑÓN X#", 
+                "CUSTOMIZE": "PERSONALIZAR",
+                "FREE": "GRATIS",
+                "BUY ITEM": "COMPRAR OBJETO", 
+                "NEW ITEM": "NUEVO OBJETO", 
+                "CLEAR": "COMPLETADO",
+                "Progress": "Progreso",
+                "BONUS UNLOCK": "BONO DESBLOQUEADO", 
+                "Continue": "Continuar",
+                "CHOOSE YOUR REWARD": "ELIGE TU RECOMPENSA", 
+                "GET": "OBTENER",
+                "GEMS": "GEMAS",
+                "NO THANKS": "NO, GRACIAS", 
+                "Building Level...": "Construyendo nivel...", 
+                "Loading...": "Cargando...",
+                "Resume": "Reanudar",
+                "Not enough gems!": "¡Gemas insuficientes!",
+                "CLEAN # HEADS": "LIMPIAR # CABEZAS",
+                "REACH # FEVER": "ALCANZA # FIEBRE",
+                "COMPLETE # LEVELS": "COMPLETAR # NIVELES",
+                "COLLECT # ": "RECOGER # ",
+
+                "language_name": "Español"
+            }
+        }
+    ]
+}

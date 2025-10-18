@@ -1,0 +1,32 @@
+{
+	"characters": [
+		{
+			"skinData": "backpack/backpack_01,blush/blush_01,bottoms/skirts_02,brows/brows_01,eyes/eyes_10,fullbody/fullbody_null,glasses/glasses_01,hair/hair_08,hands/hands_01,hats/hats_02,head/head_01,mouth/mouth_08,nose/nose_01,shoes/shoes_01,tops/tops_03",
+			"colorData": "backpack:#FF9585;bottoms:#FFA3A3;brows:#FCE6C5;eyes:#6D6B0C;fullbody:#FF696A,#FCE6C5;glasses:#5680BD;hair:#FCE6C5;hats:#5680BD,#C0C0BA;mouth:#FFFFFF;nose:#0000FF;shoes:#505050;tops:#8EC2FF,#5680BD,#5680BD;skin:#F1B88D;blush:#FF9585"
+		},
+		{
+			"skinData": "backpack/backpack_null,blush/blush_02,bottoms/pants_02,brows/brows_03,eyes/eyes_09,fullbody/fullbody_null,glasses/glasses_null,hair/hair_05,hands/hands_01,hats/hats_01,head/head_01,mouth/mouth_09,nose/nose_03,shoes/shoes_02,tops/tops_05",
+			"colorData": "backpack:#FFAAFF;bottoms:#437B88;brows:#48B9D4;eyes:#5680BD;fullbody:#FBA51C,#12A456;glasses:#00A0AA;hair:#48B9D4;hats:#ED462C,#FCE6C5;mouth:#FFFFFF;nose:#0000FF;shoes:#48B9D4;tops:#ED462C,#505050;skin:#AB6A56;blush:#8A3E2E"
+		},
+		{
+			"skinData": "backpack/backpack_03,blush/blush_02,bottoms/pants_03,brows/brows_03,eyes/eyes_02,fullbody/fullbody_null,glasses/glasses_02,hair/hair_05,hands/hands_01,hats/hats_null,head/head_01,mouth/mouth_02,nose/nose_02,shoes/shoes_01,tops/tops_05",
+			"colorData": "backpack:#A77CDB;bottoms:#202C5B;brows:#90BDF2;eyes:#19C6B4;fullbody:#FF696A,#FCE6C5;glasses:#DB7CCD;hair:#90BDF2;hats:#8AE3D9;mouth:#FFFFFF;nose:#0000FF;shoes:#86508D;tops:#61A5F6;skin:#FFCCAD;blush:#FF9585"
+		},
+		{
+			"skinData": "backpack/backpack_01,blush/blush_03,bottoms/pants_01,brows/brows_02,eyes/eyes_02,fullbody/fullbody_null,glasses/glasses_null,hair/hair_11,hands/hands_01,hats/hats_null,head/head_01,mouth/mouth_04,nose/nose_02,shoes/shoes_01,tops/tops_04",
+			"colorData": "backpack:#8EBB06;bottoms:#BBA959;brows:#1FB168;eyes:#19C6B4;fullbody:#FF696A,#FCE6C5;glasses:#DB7CCD;hair:#1FB168;hats:#8AE3D9;mouth:#FFFFFF;nose:#0000FF;shoes:#6D6B0C;tops:#FFF46A,#FFFFFA;skin:#F9C0B9;blush:#FF9585"
+		},
+		{
+			"skinData": "backpack/backpack_null,blush/blush_02,bottoms/pants_01,brows/brows_01,eyes/eyes_01,fullbody/fullbody_null,glasses/glasses_null,hair/hair_06,hands/hands_01,hats/hats_null,head/head_01,mouth/mouth_05,nose/nose_02,shoes/shoes_03,tops/tops_05",
+			"colorData": "backpack:#FFAAFF;bottoms:#5680BD;brows:#2E2728;eyes:#5680BD;fullbody:#FBA51C,#12A456;glasses:#505050;hair:#2E2728;hats:#FFFFFA,#F64D26;mouth:#FFFFFF;nose:#0000FF;shoes:#FCE6C5;tops:#7A9037,#505050;skin:#AA663F;blush:#724522"
+		},
+		{
+			"skinData": "backpack/backpack_01,blush/blush_01,bottoms/skirts_02,brows/brows_01,eyes/eyes_10,fullbody/fullbody_null,glasses/glasses_01,hair/hair_08,hands/hands_01,hats/hats_02,head/head_01,mouth/mouth_08,nose/nose_01,shoes/shoes_01,tops/tops_03",
+			"colorData": "backpack:#FF9585;bottoms:#FFA3A3;brows:#FCE6C5;eyes:#6D6B0C;fullbody:#FF696A,#FCE6C5;glasses:#5680BD;hair:#FCE6C5;hats:#5680BD,#C0C0BA;mouth:#FFFFFF;nose:#0000FF;shoes:#505050;tops:#8EC2FF,#5680BD,#5680BD;skin:#F1B88D;blush:#FF9585"
+		},
+		{
+			"skinData": "backpack/backpack_null,blush/blush_02,bottoms/bottoms_null,brows/brows_05,eyes/eyes_02,fullbody/fullbody_01,glasses/glasses_04,hair/hair_11,hands/hands_01,hats/hats_null,head/head_01,mouth/mouth_02,nose/nose_02,shoes/shoes_06,tops/tops_null",
+			"colorData": "backpack:#ED462C;bottoms:#FCE6C5;brows:#643217;eyes:#3F8881;fullbody:#FF696A,#FCE6C5;glasses:#FF696A;hair:#643217;hats:#7A9037,#D9C4A8;mouth:#A0E261;nose:#0000FF;shoes:#FCE6C5;tops:#7A9037;skin:#DCB387;blush:#9C7253"
+		}
+	]
+}

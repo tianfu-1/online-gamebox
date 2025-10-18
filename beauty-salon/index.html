@@ -1,0 +1,60 @@
+<!-- 1.2 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Beauty Salon</title>
+<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1" />
+<meta name="format-detection" content="telephone=no">
+
+<meta name="renderer" content="webkit" />
+<meta name="force-rendering" content="webkit" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="msapplication-tap-highlight" content="no">
+
+<meta name="full-screen" content="yes" />
+<meta name="x5-fullscreen" content="true" />
+<meta name="360-fullscreen" content="true" />
+
+<meta name="screen-orientation" content />
+<meta name="x5-orientation" content>
+
+<meta name="x5-page-mode" content="app">
+<style>html{-ms-touch-action:none}body,canvas,div{display:block;outline:none;-webkit-tap-highlight-color:transparent;user-select:none;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;-khtml-user-select:none;-webkit-tap-highlight-color:transparent}input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}body{position:absolute;top:0;left:0;width:100%;height:100%;padding:0;border:0;margin:0;cursor:default;color:#888;background-color:#333;text-align:center;font-family:Helvetica,Verdana,Arial,sans-serif;display:flex;flex-direction:column;overflow:hidden}#Cocos2dGameContainer{position:absolute;margin:0;left:0;top:0;display:-webkit-box;-webkit-box-orient:horizontal;-webkit-box-align:center;-webkit-box-pack:center}canvas{background-color:transparent}a:link,a:visited{color:#666}a:active,a:hover{color:#666}p.header{font-size:small}p.footer{font-size:x-small}#splash{position:absolute;top:0;left:0;width:100%;height:100%;background:#171717 url(./splash.png) no-repeat center;background-size:45%}.progress-bar{position:absolute;left:27.5%;top:80%;height:3px;padding:2px;width:45%;border-radius:7px;box-shadow:0 1px 5px #000 inset,0 1px 0 #444}.progress-bar span{display:block;height:100%;border-radius:3px;transition:width .4s ease-in-out;background-color:#3dc5de}.stripes span{background-size:30px 30px;background-image:linear-gradient(135deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);animation:animate-stripes 1s linear infinite}@keyframes animate-stripes{0%{background-position:0 0}100%{background-position:60px 0}}</style>
+<script src="sdk.js"></script>
+<script src="jszip.js"></script>
+<!-- <script> 
+    uptap.ShowScreenVideo=(n, o)=>{
+        console.log('uptapad:插屏⼴告完成')
+        o()
+    };
+    uptap.ShowExcitationVideoAdv=(n)=>{
+        console.log('uptapad:激励视频⼴告')
+        // 修改type的值，模拟不同的激励视频播放状态
+        // 1:暂时没有⼴告 2：⼴告提前关闭 3：⼴告播放完成
+        n({type:"3"})
+    };
+</script> -->
+</script>
+</head>
+<body>
+<canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
+<script>
+    window.start_game = 0;
+  window.HideLoading = true;
+  var list = ["src/settings.js","main.js","cocos2d-js-min.js"];
+  var zipfile = "game2.zip";
+  function beginGame() {
+      if (typeof VConsole !== "undefined") {
+          window.vConsole = new VConsole();
+      }
+      // var splash = document.getElementById("splash");
+      // splash.style.display = "block";
+      window.boot();
+  }
+  </script>
+  <script src="sdk_compress0.5.js"></script>
+    </body>
+
+</html>

@@ -1,0 +1,105 @@
+{
+  "minLevel" : 11,
+  "period" : 86400000,
+  "list" : [
+    {
+      "id" : 1,
+      "img" : "price_coins_1",
+      "content" : {
+        "resources" : {
+          "1" : 5
+        }
+      }
+    },
+    {
+      "id" : 2,
+      "img" : "boost_icon_moves",
+      "content" : {
+        "boosts" : {
+          "1" : 1
+        }
+      }
+    },
+    {
+      "id" : 3,
+      "img" : "price_coins_2",
+      "content" : {
+        "resources" : {
+          "1" : 6
+        }
+      }
+    },
+    {
+      "id" : 4,
+      "img" : "boost_icon_multi",
+      "content" : {
+        "boosts" : {
+          "3" : 1
+        }
+      }
+    },
+    {
+      "id" : 5,
+      "img" : "boost_icon_moves",
+      "content" : {
+        "boosts" : {
+          "1" : 1
+        }
+      }
+    },
+    {
+      "id" : 6,
+      "img" : "price_coins_1",
+      "content" : {
+        "resources" : {
+          "1" : 5
+        }
+      }
+    },
+    {
+      "id" : 7,
+      "img" : "fortuneIcon",
+      "content" : {
+        "boosts" : {
+          "4" : 1
+        }
+      }
+    },
+    {
+      "id" : 8,
+      "img" : "price_coins_2",
+      "content" : {
+        "resources" : {
+          "1" : 20
+        }
+      }
+    },
+    {
+      "id" : 9,
+      "img" : "boost_icon_multi",
+      "content" : {
+        "boosts" : {
+          "3" : 1
+        }
+      }
+    },
+    {
+      "id" : 10,
+      "img" : "boost_icon_moves",
+      "content" : {
+        "boosts" : {
+          "1" : 1
+        }
+      }
+    },
+    {
+      "id" : 11,
+      "img" : "energyDaysIcon",
+      "content" : {
+        "resources" : {
+          "3" : 1
+        }
+      }
+    }
+  ]
+}

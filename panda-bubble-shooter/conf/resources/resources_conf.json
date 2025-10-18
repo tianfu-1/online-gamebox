@@ -1,0 +1,43 @@
+{
+  "reg" : [
+    {"id" : 1, "value" : 10, "time" : 0},
+    {"id" : 2, "value" : 5, "time" : 0},
+    {"id" : 3, "value" : 0, "time" : 0},
+    {"id" : 4, "value" : 0, "time" : 0}
+  ],
+  "list" : [
+    {
+      "id" : "1",
+      "uiIcon" : "coinsIcon",
+      "recoveryTime" : 0,
+      "maxValue" : 0,
+      "speedUp" : 0,
+      "names" : ["COINS", "COIN_1", "COIN_2", "COIN_3"]
+    },
+    {
+      "id" : "2",
+      "uiIcon" : "energyIcon",
+      "recoveryTime" : 3600000,
+      "maxValue" : 5,
+      "speedUp" : 1800000,
+      "names" : ["ENERGY", "ENERGY_1", "ENERGY_2", "ENERGY_3"]
+    },
+    {
+      "id" : "3",
+      "recoveryTime" : 0,
+      "spendTime" : 86400000,
+      "maxValue" : 0,
+      "uiIcon" : "energyDaysIcon",
+      "speedUp" : 0,
+      "names" : ["ENERGY_UNLIMITED", "ENERGY_UNLIMITED", "ENERGY_UNLIMITED", "ENERGY_UNLIMITED"]
+    },
+    {
+      "id" : "4",
+      "recoveryTime" : 0,
+      "maxValue" : 0,
+      "uiIcon" : "fortuneIcon",
+      "speedUp" : 0,
+      "names" : ["FORTUNE", "FORTUNE", "FORTUNE", "FORTUNE"]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+	"version": 0,
+	"rooms": [
+		{
+			"room": [
+				{
+					"scanID": 205,
+					"id": "Couch03",
+					"x": 513.4,
+					"y": 392.87,
+					"colorData": "#F9A598,#976747",
+					"flipped": 1,
+					"attachedUID": 0,
+					"zindex": 2
+				},
+				{
+					"scanID": 207,
+					"id": "Bed01",
+					"x": 1298.01,
+					"y": 399.33,
+					"colorData": "#E4614D,#B57C47",
+					"flipped": -1,
+					"attachedUID": 0,
+					"zindex": 7
+				},
+				{
+					"scanID": 211,
+					"id": "Table01",
+					"x": 967.18,
+					"y": 397.22,
+					"colorData": "#B57C47,#000000",
+					"flipped": 1,
+					"attachedUID": 0,
+					"zindex": 5
+				},
+				{
+					"scanID": 214,
+					"id": "FloorLamp01",
+					"x": 718.14,
+					"y": 381,
+					"colorData": "#A8A9A4,#000000",
+					"flipped": -1,
+					"attachedUID": 0,
+					"zindex": 0
+				},
+				{
+					"scanID": 218,
+					"id": "WindowPlain03",
+					"x": 519.52,
+					"y": 246.58,
+					"colorData": "#F8EAD5,#000000",
+					"flipped": 1,
+					"attachedUID": 0,
+					"zindex": 3
+				},
+				{
+					"scanID": 222,
+					"id": "WindowPlain03",
+					"x": 1173.54,
+					"y": 248.01,
+					"colorData": "#F8EAD5,#000000",
+					"flipped": 1,
+					"attachedUID": 0,
+					"zindex": 1
+				},
+				{
+					"scanID": 224,
+					"id": "Table04",
+					"x": 1477.44,
+					"y": 427.43,
+					"colorData": "#B57C47,#000000",
+					"flipped": 1,
+					"attachedUID": 0,
+					"zindex": 12
+				},
+				{
+					"scanID": 227,
+					"id": "Plant01",
+					"x": 258.79,
+					"y": 419.3,
+					"colorData": "#F8EAD5,#000000",
+					"flipped": 1,
+					"attachedUID": 0,
+					"zindex": 11
+				},
+				{
+					"scanID": 229,
+					"id": "Char",
+					"x": 547.02,
+					"y": 404.87,
+					"colorData": "",
+					"flipped": 1,
+					"attachedUID": 205,
+					"zindex": 4,
+					"charID": 0,
+					"animation": "neutral_sentado"
+				},
+				{
+					"scanID": 232,
+					"id": "Char",
+					"x": 1112.87,
+					"y": 515.06,
+					"colorData": "",
+					"flipped": 1,
+					"attachedUID": 0,
+					"zindex": 16,
+					"charID": 1,
+					"animation": "pose_07"
+				},
+				{
+					"scanID": 239,
+					"id": "ItemLamp01",
+					"x": 1478.21,
+					"y": 364.49,
+					"colorData": "#F7EE82,#A16735",
+					"flipped": 1,
+					"attachedUID": 224,
+					"zindex": 14
+				},
+				{
+					"walls": [
+						{
+							"style": "default",
+							"color": -162192042045439
+						},
+						{
+							"style": "default",
+							"color": -185282591156223
+						}
+					]
+				},
+				{
+					"floors": [
+						{
+							"style": "default",
+							"color": -270219327724543
+						},
+						{
+							"style": "default",
+							"color": -236132772744191
+						}
+					]
+				}
+			]
+		},
+		{
+			"room": []
+		},
+		{
+			"room": []
+		},
+		{
+			"room": []
+		}
+	],
+	"characters": [
+		{
+			"id": 0,
+			"skinData": "backpack/backpack_01,blush/blush_01,bottoms/pants_02,brows/brows_01,eyes/eyes_07,fullbody/fullbody_null,glasses/glasses_01,hair/hair_04,hands/hands_01,hats/hats_01,head/head_01,mouth/mouth_02,nose/nose_01,shoes/shoes_03,tops/tops_02",
+			"colorData": "backpack:#ED462C;bottoms:#FCE6C5;brows:#643217;eyes:#202C5B;fullbody:#FF696A,#FCE6C5;glasses:#ED462C;hair:#643217;hats:#7A9037,#D9C4A8;mouth:#A0E261;nose:#0000FF;shoes:#ED462C;tops:#7A9037;skin:#DCB387;blush:#FFA3A3"
+		},
+		{
+			"id": 1,
+			"skinData": "backpack/backpack_null,blush/blush_04,bottoms/skirts_01,brows/brows_03,eyes/eyes_03,fullbody/fullbody_null,glasses/glasses_null,hair/hair_13,hands/hands_01,hats/hats_02,head/head_01,mouth/mouth_01,nose/nose_02,shoes/shoes_01,tops/tops_04",
+			"colorData": "backpack:#FFAAFF;bottoms:#BBA959;brows:#2E2728;eyes:#5680BD;fullbody:#FBA51C,#12A456;glasses:#00A0AA;hair:#2E2728;hats:#BBA959;mouth:#FFFFFF;nose:#0000FF;shoes:#505050;tops:#FFC169,#FCE6C5;skin:#C7763E;blush:#AE5642"
+		},
+		{	"id":2,
+			"skinData": "backpack/backpack_01,blush/blush_01,bottoms/skirts_02,brows/brows_01,eyes/eyes_10,fullbody/fullbody_null,glasses/glasses_01,hair/hair_08,hands/hands_01,hats/hats_02,head/head_01,mouth/mouth_08,nose/nose_01,shoes/shoes_01,tops/tops_03",
+			"colorData": "backpack:#FF9585;bottoms:#FFA3A3;brows:#FCE6C5;eyes:#6D6B0C;fullbody:#FF696A,#FCE6C5;glasses:#5680BD;hair:#FCE6C5;hats:#5680BD,#C0C0BA;mouth:#FFFFFF;nose:#0000FF;shoes:#505050;tops:#8EC2FF,#5680BD,#5680BD;skin:#F1B88D;blush:#FF9585"
+		},
+		{	
+			"id":3,
+			"skinData": "backpack/backpack_null,blush/blush_02,bottoms/pants_01,brows/brows_01,eyes/eyes_01,fullbody/fullbody_null,glasses/glasses_null,hair/hair_06,hands/hands_01,hats/hats_null,head/head_01,mouth/mouth_05,nose/nose_02,shoes/shoes_03,tops/tops_05",
+			"colorData": "backpack:#FFAAFF;bottoms:#5680BD;brows:#2E2728;eyes:#5680BD;fullbody:#FBA51C,#12A456;glasses:#505050;hair:#2E2728;hats:#FFFFFA,#F64D26;mouth:#FFFFFF;nose:#0000FF;shoes:#FCE6C5;tops:#7A9037,#505050;skin:#AA663F;blush:#724522"
+		}
+		
+	]
+}

@@ -1,0 +1,52 @@
+{"frames": {
+
+"preloaderBackground.png":
+{
+	"frame": {"x":10,"y":567,"w":550,"h":1100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":1100},
+	"sourceSize": {"w":550,"h":1100}
+},
+"preloaderGreenButton.png":
+{
+	"frame": {"x":10,"y":1687,"w":340,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":340,"h":150},
+	"sourceSize": {"w":340,"h":150}
+},
+"preloaderLogo.png":
+{
+	"frame": {"x":10,"y":10,"w":561,"h":537},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":7,"w":561,"h":537},
+	"sourceSize": {"w":600,"h":550}
+},
+"preloaderProgressBarBack.png":
+{
+	"frame": {"x":370,"y":1687,"w":150,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"preloaderProgressBarFront.png":
+{
+	"frame": {"x":370,"y":1827,"w":150,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "loader.png",
+	"format": "RGBA8888",
+	"size": {"w":581,"h":1957},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a03e82f950f039db24b9c9b480ebc175:77f876b19bfe21e524a47aca44d9eaec:f738fe997bb2212a06178648a8058842$"
+}
+}

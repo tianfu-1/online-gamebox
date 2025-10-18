@@ -1,0 +1,17 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "Save1Map": "",
+        "Save1Data": "",
+        "Save2Map": "",
+        "Save2Data": "",
+        "Save3Map": "",
+        "Save3Data": "",
+        "FirstLoad": 0,
+        "hero": 0,
+        "weapon": 0,
+        "time": 0,
+        "Sound": 1,
+        "Audio": 1
+    }
+}

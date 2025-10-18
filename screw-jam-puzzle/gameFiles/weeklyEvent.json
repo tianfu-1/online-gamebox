@@ -1,0 +1,152 @@
+[
+	{
+		"name": "coin",
+		"value": 1250,
+		"id": 25,
+		"exp": 500
+	},
+	{
+		"name": "hammer",
+		"value": 1,
+		"id": 24,
+		"exp": 200
+	},
+	{
+		"name": "magnet",
+		"value": 1,
+		"id": 23,
+		"exp": 200
+	},
+	{
+		"name": "coin",
+		"value": 750,
+		"id": 22,
+		"exp": 300
+	},
+	{
+		"name": "drill",
+		"value": 3,
+		"id": 21,
+		"exp": 200
+	},
+	{
+		"name": "heart",
+		"value": 30,
+		"id": 20,
+		"exp": 100
+	},
+	{
+		"name": "toolbox",
+		"value": 5,
+		"id": 19,
+		"exp": 400
+	},
+	{
+		"name": "hammer",
+		"value": 1,
+		"id": 18,
+		"exp": 200
+	},
+	{
+		"name": "coin",
+		"value": 200,
+		"id": 17,
+		"exp": 200
+	},
+	{
+		"name": "drill",
+		"value": 3,
+		"id": 16,
+		"exp": 200
+	},
+	{
+		"name": "heart",
+		"value": 100,
+		"id": 15,
+		"exp": 200
+	},
+	{
+		"name": "coin",
+		"value": 300,
+		"id": 14,
+		"exp": 200
+	},
+	{
+		"name": "toolbox",
+		"value": 1,
+		"id": 13,
+		"exp": 100
+	},
+	{
+		"name": "coin",
+		"value": 375,
+		"id": 12,
+		"exp": 200
+	},
+	{
+		"name": "hammer",
+		"value": 1,
+		"id": 11,
+		"exp": 200
+	},
+	{
+		"name": "drill",
+		"value": 3,
+		"id": 10,
+		"exp": 400
+	},
+	{
+		"name": "heart",
+		"value": 45,
+		"id": 9,
+		"exp": 100
+	},
+	{
+		"name": "coin",
+		"value": 100,
+		"id": 8,
+		"exp": 200
+	},
+	{
+		"name": "drill",
+		"value": 2,
+		"id": 7,
+		"exp": 400
+	},
+	{
+		"name": "toolbox",
+		"value": 1,
+		"id": 6,
+		"exp": 400
+	},
+	{
+		"name": "coin",
+		"value": 50,
+		"id": 5,
+		"exp": 100
+	},
+	{
+		"name": "magnet",
+		"value": 1,
+		"id": 4,
+		"exp": 500
+	},
+	{
+		"name": "heart",
+		"value": 15,
+		"id": 3,
+		"exp": 100
+	},
+	{
+		"name": "coin",
+		"value": 125,
+		"id": 2,
+		"exp": 200
+	},
+	{
+		"name": "hammer",
+		"value": 1,
+		"id": 1,
+		"exp": 60
+	}
+]

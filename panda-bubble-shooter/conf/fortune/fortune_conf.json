@@ -1,0 +1,14 @@
+{
+  "minLevel" : 5,
+  "list" : [
+    {"id" :  1, "chance" :  30, "prize" :  {"boosts" :  {"1" :  1}}, "icon" :  "boost_icon_moves"},
+    {"id" :  2, "chance" :  31, "prize" :  {"resources" :  {"3" :  1}}, "icon" :  "energyDaysIcon"},
+    {"id" :  3, "chance" :  50, "prize" :  {"boosts" :  {"2" :  2}}, "icon" :  "boost_icon_arrow"},
+    {"id" :  4, "chance" :  51, "prize" :  {"resources" :  {"3" :  2}}, "icon" :  "energyDaysIcon"},
+    {"id" :  5, "chance" :  56, "prize" :  {"resources" :  {"1" :  10}}, "icon" : "coinsIcon"},
+    {"id" :  6, "chance" :  85, "prize" :  {"boosts" :  {"4" :  1}}, "icon" :  "boost_icon_fireball"},
+    {"id" :  7, "chance" :  98, "prize" :  {"boosts" :  {"3" :  1}}, "icon" :  "boost_icon_multi"},
+    {"id" :  8, "chance" :  99, "prize" :  {"resources" :  {"3" :  3}}, "icon" :  "energyDaysIcon"},
+    {"id" :  9, "chance" :  100, "prize" :  {"resources" :  {"1" :  50}}, "icon" :  "coinsIcon"}
+  ]
+}

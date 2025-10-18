@@ -1,0 +1,47 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "ko"
+            },
+            "messages": {
+                "Color 1": "색상 1",
+                "Color 2": "색상 2",
+                "Color 3": "색상 3",
+                "Reset": "초기화",
+                "Outfit": "의상",
+                "Room": "방",
+                "Tasks": "작업",
+                "First outfit": "첫 번째 의상",
+                "All pink": "올 핑크",
+                "At the club": "클럽에서",
+                "All black": "올 블랙",
+                "Professional": "프로페셔널",
+                "Colorful": "알록달록",
+                "Workout": "운동복",
+                "All tasks complete!": "모든 작업이 완료되었습니다!",
+                "Check again soon!": "곧 다시 확인하세요!",
+                "Hello,": "안녕하세요,",
+                "Create Room": "방 만들기",
+                "Join Room": "방 참가",
+                "Reset Outfit": "의상 초기화",
+                "Creating room...": "방 생성 중...",
+                "Room Code": "방 코드",
+                "Copy": "복사",
+                "Leave Room": "방 나가기",
+                "Are you sure you want to leave?": "정말 나가시겠습니까?",
+                "Stay in Room": "방에 머무르기",
+                "Leaving room...": "방 나가는 중...",
+                "Join": "참가",
+                "Back": "뒤로",
+                "Sorry, room not found for code: ": "죄송합니다. 해당 코드에 대한 방을 찾을 수 없습니다: ",
+                "Joining room...": "방 참가 중",
+                "Are you sure you want to reset your outfit?": "정말 의상을 초기화하시겠습니까?",
+                "Keep Outfit": "의상 유지"
+            }
+        }
+    ]
+}
