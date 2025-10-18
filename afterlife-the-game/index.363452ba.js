@@ -1,2 +1,0 @@
-(resizePreload=()=>{var e,t,n=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth,i=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,d=853/480;n/i<853/480?t=(e=n)/d:e=(t=i)*d;var o=document.getElementById("preloadDiv");o.style.height=t+"px",o.style.width=e+"px"})(),window.onresize=function(e){resizePreload()};
-//# sourceMappingURL=index.363452ba.js.map
