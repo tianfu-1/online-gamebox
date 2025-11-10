@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "kpopgamesgo.com",
+        hostname: "assets.kpopgamesgo.com",
       },
     ],
   },
