@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const navLinks = [
   { href: "/#popular", label: "Popular" },
@@ -18,8 +19,13 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-40 border-b border-slate-200 bg-white text-slate-900 shadow-sm">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
-        <Link href="/" className="text-xl font-black tracking-tight text-slate-900 md:text-2xl" onClick={closeMobile}>
-          KPOP Games GO
+        <Link
+          href="/"
+          className="flex items-center gap-2"
+          onClick={closeMobile}
+          aria-label="KPOP Games GO home"
+        >
+          <Image src="/kpoplogo.png" alt="KPOP Games GO" width={270} height={63} className="h-14 w-auto" priority />
         </Link>
         <nav className="hidden items-center gap-6 text-sm font-semibold md:flex">
           <Link href="/" className="text-slate-700 transition hover:text-slate-900">
