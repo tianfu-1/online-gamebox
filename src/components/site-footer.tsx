@@ -11,11 +11,11 @@ export function SiteFooter() {
           </p>
         </div>
         <div className="flex flex-wrap items-center gap-4 text-sm font-semibold text-slate-700">
-          <Link className="transition hover:text-blue-600" href="/sitemap.xml">
-            Sitemap
+          <Link className="transition hover:text-blue-600" href="/terms">
+            Terms of Use
           </Link>
-          <Link className="transition hover:text-blue-600" href="/robots.txt">
-            Robots
+          <Link className="transition hover:text-blue-600" href="/privacy">
+            Privacy Policy
           </Link>
           <a className="transition hover:text-blue-600" href="mailto:hello@kpopgamesgo.com">
             hello@kpopgamesgo.com

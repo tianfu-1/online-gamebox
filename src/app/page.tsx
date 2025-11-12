@@ -192,34 +192,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section
-        id="contact"
-        className={`${sectionWidth} mt-12 mb-16 rounded-3xl border border-blue-200 bg-blue-50 px-6 py-10 text-slate-800`}
-      >
-        <div className="grid gap-6 md:grid-cols-[1.1fr_1fr] md:items-center">
-          <div>
-            <h2 className="text-3xl font-bold text-slate-900">Partner with us</h2>
-            <p className="mt-4 text-sm leading-relaxed text-slate-700">
-              Publishers, studios, and creators are welcome. Share a playable URL or Cloudflare R2 path and we will launch a reviewed landing page within 48 hours, complete with SEO copy and HotPool tracking hooks.
-            </p>
-          </div>
-          <div className="rounded-3xl border border-slate-200 bg-white p-6 text-sm text-slate-600 shadow-sm">
-            <p className="font-semibold text-slate-900">Contact</p>
-            <p className="mt-3">
-              Email:{" "}
-              <a className="text-blue-600 hover:underline" href="mailto:hello@kpopgamesgo.com">
-                hello@kpopgamesgo.com
-              </a>
-            </p>
-            <p className="mt-2">
-              Discord: <span className="text-blue-600">#kpopgamesgo</span>
-            </p>
-            <p className="mt-2 text-xs text-slate-500">
-              Include your game summary, artwork, territory availability, and any ad requirements so we can schedule tests quickly.
-            </p>
-          </div>
-        </div>
-      </section>
     </div>
   );
 }
