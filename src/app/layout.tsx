@@ -56,6 +56,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8305771283469711"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} bg-white text-slate-900 antialiased`}>
         <div className="flex min-h-screen flex-col bg-white">
           <SiteHeader />
