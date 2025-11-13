@@ -1,7 +1,12 @@
+import { absoluteUrl } from "@/lib/site";
+
 export const metadata = {
   title: "Privacy Policy",
   description:
     "Understand how KPOP Games GO collects, uses, and safeguards your information, including data rights, cookies, advertising, and contact details.",
+  alternates: {
+    canonical: absoluteUrl("/privacy"),
+  },
 };
 
 export default function PrivacyPage() {

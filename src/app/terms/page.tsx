@@ -1,9 +1,13 @@
 import Link from "next/link";
+import { absoluteUrl } from "@/lib/site";
 
 export const metadata = {
   title: "Terms of Use",
   description:
     "Review the Terms of Use for KPOP Games GO. Learn about eligibility, intellectual property, third-party links, ads, and legal disclaimers.",
+  alternates: {
+    canonical: absoluteUrl("/terms"),
+  },
 };
 
 export default function TermsPage() {
