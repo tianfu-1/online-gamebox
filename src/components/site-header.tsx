@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { usePathname } from "next/navigation";
 
 const navLinks = [
   { href: "/#popular", label: "Popular" },
@@ -12,6 +13,11 @@ const navLinks = [
 ];
 
 export function SiteHeader() {
+  const pathname = usePathname();
+  if (pathname?.startsWith("/onlinegames")) {
+    return null;
+  }
+
   const [mobileOpen, setMobileOpen] = useState(false);
   const toggleMobile = () => setMobileOpen((prev) => !prev);
   const closeMobile = () => setMobileOpen(false);
